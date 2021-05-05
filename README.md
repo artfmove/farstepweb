@@ -1,6 +1,7 @@
 <h2>Flutter веб-сайт для управление контентом мобильного приложение "Афродита"</h3>
 &#8226; Запланированные добавления и удаление контента при помощи Google Cloud Platform - Cloud Functions, Cloud Task, Firestore trigger<br>
 &#8226; Сжатие изображений Firebase Resize Images<br>
+&#8226; node.js<br>
 &#8226; FilePicker, DateTimePicker
 
 
