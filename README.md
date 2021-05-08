@@ -1,6 +1,6 @@
-<h2>Flutter веб-сайт для управление контентом мобильного приложение "Афродита"</h3>
-&#8226; Запланированные добавления и удаление контента при помощи Google Cloud Platform - Cloud Functions, Cloud Task, Firestore trigger<br>
-&#8226; Сжатие изображений Firebase Resize Images<br>
+<h2>Flutter website for content management mobile app "Aphrodite"</h3>
+&#8226;Scheduled content additions and deletions with Google Cloud Platform - Cloud Functions, Cloud Task, Firestore trigger<br>
+&#8226; Compress Images Firebase Resize Images<br>
 &#8226; node.js<br>
 &#8226; FilePicker, DateTimePicker
 
